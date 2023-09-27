@@ -1,0 +1,8 @@
+Verified+1: Thoralf Czichy <thoralf.czichy@nokia.com>
+Verified+1: ORAN Required GHA <releng+oran.required.gha@linuxfoundation.org>
+Code-Review+2: Thoralf Czichy <thoralf.czichy@nokia.com>
+Submitted-by: Thoralf Czichy <thoralf.czichy@nokia.com>
+Submitted-at: Wed, 27 Sep 2023 04:18:33 +0000
+Reviewed-on: https://gerrit.o-ran-sc.org/r/c/ric-plt/conflictmgr/+/11736
+Project: ric-plt/conflictmgr
+Branch: refs/heads/master
