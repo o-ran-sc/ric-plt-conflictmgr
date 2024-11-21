@@ -1,0 +1,8 @@
+Code-Review+2: Gunja Rastogi <gunja.rastogi@capgemini.com>
+Verified+1: Gunja Rastogi <gunja.rastogi@capgemini.com>
+Verified+1: ORAN Required GHA <releng+oran.required.gha@linuxfoundation.org>
+Submitted-by: Gunja Rastogi <gunja.rastogi@capgemini.com>
+Submitted-at: Thu, 21 Nov 2024 09:30:43 +0000
+Reviewed-on: https://gerrit.o-ran-sc.org/r/c/ric-plt/conflictmgr/+/13674
+Project: ric-plt/conflictmgr
+Branch: refs/heads/master
