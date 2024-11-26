@@ -1,0 +1,9 @@
+Code-Review+1: Abdul Wahid W <abdulwahid.w@nokia.com>
+Code-Review+2: Gunja Rastogi <gunja.rastogi@capgemini.com>
+Verified+1: Gunja Rastogi <gunja.rastogi@capgemini.com>
+Verified+1: ORAN Required GHA <releng+oran.required.gha@linuxfoundation.org>
+Submitted-by: Gunja Rastogi <gunja.rastogi@capgemini.com>
+Submitted-at: Tue, 26 Nov 2024 14:29:09 +0000
+Reviewed-on: https://gerrit.o-ran-sc.org/r/c/ric-plt/conflictmgr/+/13675
+Project: ric-plt/conflictmgr
+Branch: refs/heads/master
