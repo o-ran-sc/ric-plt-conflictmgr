@@ -25,7 +25,7 @@ Make sure that following tools are properly installed and configured
 	Module's Grpc Service Up 
 	RMR (ricplt/lib/rmr)
 	Healthy kubernetes cluster
-	Access to the common docker registry
+	Access to the common docker registry.
 
 ## Project folder structure
 /main:contains go project's main file
